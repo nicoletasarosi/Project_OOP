@@ -1,0 +1,21 @@
+[2019-05-31 08:00:51] [info] Start Program:
+Path:"C:\Users\Laurentiu Rusu\source\oop\FinalProject\x64\Debug\Lab11.exe"
+Arguments:
+Working directory: "C:\Users\Laurentiu Rusu\source\oop\FinalProject\Lab11\"
+Modules: Selected: C:\Users\Laurentiu Rusu\source\oop\FinalProject\x64\Debug\Lab11.exe Excluded: 
+Sources: Selected: C:\Users\Laurentiu Rusu\source\oop\FinalProject\Lab11 Excluded: main.c Ui.c GUI.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Laurentiu Rusu\AppData\Local\Temp\dztpzs5e.bbm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-31 08:00:51] [info] Module: C:\Users\Laurentiu Rusu\source\oop\FinalProject\x64\Debug\Lab11.exe is selected because it matches selected pattern: C:\Users\Laurentiu Rusu\source\oop\FinalProject\x64\Debug\Lab11.exe
+[2019-05-31 08:00:59] [info] ----------------------------------------------------
+[2019-05-31 08:00:59] [info] Coverage binary generated in file: C:\Users\Laurentiu Rusu\AppData\Local\Temp\dztpzs5e.bbm
+[2019-05-31 08:00:59] [info] ----------------------------------------------------
